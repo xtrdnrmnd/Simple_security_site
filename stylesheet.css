@@ -1,0 +1,100 @@
+.first {
+	font-size: 30px ;	
+	color: #FFFFFF;
+}
+
+html {
+ min-height: 100%;
+ background-size: cover; 
+ background-image: url(image.jpeg);
+ background-repeat: no-repeat;
+ background-position: right bottom;
+
+}
+ 
+body{
+ min-height:100%;
+}
+
+.zebra{
+ border-spacing: 8;
+
+ }
+ td {
+ padding: 10px 20px;
+ text-align: center;
+ border-bottom: 1px solid #696969;
+ transition: all 0.5s linear;
+ }
+ td:first-child {
+ text-align: left;
+ color: #111111;
+ font-weight: bold;
+ }
+ th {
+ padding: 10px 20px;
+ color: #111111;
+ border-bottom: 1px solid #111111;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px;
+ }
+ td:nth-child(even) {
+ background: #a1c5f0;
+ }
+ td:nth-child(odd) {
+ background: #a1c5f0;
+ }
+ th:nth-child(even)  {
+ background: #a1c5f0;
+ }
+ th:nth-child(odd)  {
+ background: #a1c5f0;
+ }
+
+
+
+
+.second{text-decoration:none; text-align:center; 
+ padding:11px 32px; 
+ border:solid 1px #111111; 
+ -webkit-border-radius:4px;
+ -moz-border-radius:4px; 
+ border-radius: 4px; 
+ font:15px Arial, Helvetica, sans-serif; 
+ font-weight:bold; 
+ color:#FFFFFF; 
+ background-color:#000000; 
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+  
+  }.second:hover{
+ padding:11px 32px; 
+ border:solid 1px #004F72; 
+ -webkit-border-radius:4px;
+ -moz-border-radius:4px; 
+ border-radius: 4px; 
+ font:15px Arial, Helvetica, sans-serif; 
+ font-weight:bold; 
+ color:#FFFFFF; 
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+  
+ }.second:active{
+ padding:11px 32px; 
+ border:solid 1px #004F72; 
+ -webkit-border-radius:4px;
+ -moz-border-radius:4px; 
+ border-radius: 4px; 
+ font:15px Arial, Helvetica, sans-serif; 
+ font-weight:bold; 
+ color:#FFFFFF; 
+ background-color:#147ea1; 
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+  
+
+
+
